@@ -1,0 +1,554 @@
+ <FILE>
+    <INSTANCE>
+        <Issuer>1129-GRUPO FINANCIERO GAL</Issuer>
+        <NormalBookEarlyTradingCycle>24hs-VWAP</NormalBookEarlyTradingCycle>
+        <NormalBookFirstTradingCycle>24hs-VWAP</NormalBookFirstTradingCycle>
+        <NormalBookLastTradingCycle>24hs-VWAP</NormalBookLastTradingCycle>
+        <NormalBookTradingCycle>24hs-VWAP</NormalBookTradingCycle>
+        <NormalOrderBook>1</NormalOrderBook>
+        <OffBookOrderBook>0</OffBookOrderBook>
+        <OffBookTradingCycle>Standard Off Book</OffBookTradingCycle>
+        <AONAuctionDuration>0</AONAuctionDuration>
+        <ActiveLoadID>1</ActiveLoadID>
+        <AdjustmentFactor>1.0000</AdjustmentFactor>
+        <AlphaID>GGAL</AlphaID>
+        <BLOCK>0</BLOCK>
+        <BlueMonth>0</BlueMonth>
+        <CBMinimumValue />
+        <CFICode />
+        <CalendarID>Default</CalendarID>
+        <TypeOfCategory>01-ACCIONES PRIVADAS</TypeOfCategory>
+        <DeletionDate>2018/05/02</DeletionDate>
+        <DisplayFormat>0</DisplayFormat>
+        <DisplayFormatFieldsTable>Test</DisplayFormatFieldsTable>
+        <DividendYield>0.00000000</DividendYield>
+        <ExpiryDate>2018/04/27</ExpiryDate>
+        <FirstTradingDate />
+        <FlagforDelete>0</FlagforDelete>
+        <IndexPrice>131.2500000</IndexPrice>
+        <IndexQty>0.0000000</IndexQty>
+        <InstrumentStatus>0</InstrumentStatus>
+        <InternalLoadID>0</InternalLoadID>
+        <IssuedQty>99999999999.0000000</IssuedQty>
+        <LastTradingDay>2018/04/25</LastTradingDay>
+        <Leader>0</Leader>
+        <LoadID>1</LoadID>
+        <LotValue>1000.0000000</LotValue>
+        <MDSMulticastChannelID>0</MDSMulticastChannelID>
+        <MOBType>0</MOBType>
+        <MarcaStandard>0</MarcaStandard>
+        <MarketDataChannelID>0</MarketDataChannelID>
+        <MarketID>CT</MarketID>
+        <NumberofDecimalPlaces>3</NumberofDecimalPlaces>
+        <NumericID>534</NumericID>
+        <OperationalForm>T</OperationalForm>
+        <OrderDeletionDate />
+        <PASS>0</PASS>
+        <PSInternalLoadID>1</PSInternalLoadID>
+        <PostTradeParameter>PTP_ACC-OPC-CAU-PR</PostTradeParameter>
+        <ReferencePrice />
+        <ReferencePriceTable>T_Precio_Referencia</ReferencePriceTable>
+        <SIN>ARP495251018</SIN>
+        <SecMDSMulticastChannelID>6</SecMDSMulticastChannelID>
+        <SecondaryLoadID>2</SecondaryLoadID>
+        <SecurityDescription>(534)GR.F.GALICIA &quot;B&quot;-27/04/20</SecurityDescription>
+        <SecurityType>2</SecurityType>
+        <Segment>PLAZO</Segment>
+        <SettlementDate>2018/04/27</SettlementDate>
+        <SettlementMethod>0</SettlementMethod>
+        <Symbol>GGAL-2704-T-CT-ARS</Symbol>
+        <Term>2704</Term>
+        <TradingCurrency>ARS</TradingCurrency>
+        <TradingParameter>ACC_LM-1_CM-1_VWAP</TradingParameter>
+        <TypeOfDebt />
+        <TypeOfIncome>02-VARIABLE</TypeOfIncome>
+        <TypeOfIssue />
+        <TypeOfObligation />
+        <Underlying>GGAL-0003-C-CT-ARS</Underlying>
+        <Volatility>0.00000000</Volatility>
+        <Action>0</Action>
+    </INSTANCE>
+    <INSTANCE>
+        <Issuer>1129-GRUPO FINANCIERO GAL</Issuer>
+        <NormalBookEarlyTradingCycle>24hs-VWAP</NormalBookEarlyTradingCycle>
+        <NormalBookFirstTradingCycle>24hs-VWAP</NormalBookFirstTradingCycle>
+        <NormalBookLastTradingCycle>24hs-VWAP</NormalBookLastTradingCycle>
+        <NormalBookTradingCycle>24hs-VWAP</NormalBookTradingCycle>
+        <NormalOrderBook>1</NormalOrderBook>
+        <OffBookOrderBook>0</OffBookOrderBook>
+        <OffBookTradingCycle>Standard Off Book</OffBookTradingCycle>
+        <AONAuctionDuration>0</AONAuctionDuration>
+        <ActiveLoadID>1</ActiveLoadID>
+        <AdjustmentFactor>1.0000</AdjustmentFactor>
+        <AlphaID>GGAL</AlphaID>
+        <BLOCK>0</BLOCK>
+        <BlueMonth>0</BlueMonth>
+        <CBMinimumValue />
+        <CFICode />
+        <CalendarID>Default</CalendarID>
+        <TypeOfCategory>01-ACCIONES PRIVADAS</TypeOfCategory>
+        <DeletionDate>2018/07/02</DeletionDate>
+        <DisplayFormat>0</DisplayFormat>
+        <DisplayFormatFieldsTable>Test</DisplayFormatFieldsTable>
+        <DividendYield>0.00000000</DividendYield>
+        <ExpiryDate>2018/06/29</ExpiryDate>
+        <FirstTradingDate />
+        <FlagforDelete>0</FlagforDelete>
+        <IndexPrice>205.2500000</IndexPrice>
+        <IndexQty>0.0000000</IndexQty>
+        <InstrumentStatus>0</InstrumentStatus>
+        <InternalLoadID>0</InternalLoadID>
+        <IssuedQty>99999999999.0000000</IssuedQty>
+        <LastTradingDay>2018/06/27</LastTradingDay>
+        <Leader>0</Leader>
+        <LoadID>1</LoadID>
+        <LotValue>1000.0000000</LotValue>
+        <MDSMulticastChannelID>0</MDSMulticastChannelID>
+        <MOBType>0</MOBType>
+        <MarcaStandard>0</MarcaStandard>
+        <MarketDataChannelID>0</MarketDataChannelID>
+        <MarketID>CT</MarketID>
+        <NumberofDecimalPlaces>3</NumberofDecimalPlaces>
+        <NumericID>534</NumericID>
+        <OperationalForm>T</OperationalForm>
+        <OrderDeletionDate />
+        <PASS>0</PASS>
+        <PSInternalLoadID>1</PSInternalLoadID>
+        <PostTradeParameter>PTP_ACC-OPC-CAU-PR</PostTradeParameter>
+        <ReferencePrice />
+        <ReferencePriceTable>T_Precio_Referencia</ReferencePriceTable>
+        <SIN>ARP495251018</SIN>
+        <SecMDSMulticastChannelID>6</SecMDSMulticastChannelID>
+        <SecondaryLoadID>2</SecondaryLoadID>
+        <SecurityDescription>(534)GR.F.GALICIA &quot;B&quot;-29/06/20</SecurityDescription>
+        <SecurityType>2</SecurityType>
+        <Segment>PLAZO</Segment>
+        <SettlementDate>2018/06/29</SettlementDate>
+        <SettlementMethod>0</SettlementMethod>
+        <Symbol>GGAL-2906-T-CT-ARS</Symbol>
+        <Term>2906</Term>
+        <TradingCurrency>ARS</TradingCurrency>
+        <TradingParameter>ACC_LM-1_CM-1_VWAP</TradingParameter>
+        <TypeOfDebt />
+        <TypeOfIncome>02-VARIABLE</TypeOfIncome>
+        <TypeOfIssue />
+        <TypeOfObligation />
+        <Underlying>GGAL-0003-C-CT-ARS</Underlying>
+        <Volatility>0.00000000</Volatility>
+        <Action>0</Action>
+    </INSTANCE>
+    <INSTANCE>
+        <Issuer>0500-REPUBLICA ARGENTINA</Issuer>
+        <NormalBookEarlyTradingCycle>24hs-CAC</NormalBookEarlyTradingCycle>
+        <NormalBookFirstTradingCycle>24hs-CAC</NormalBookFirstTradingCycle>
+        <NormalBookLastTradingCycle>24hs-CAC</NormalBookLastTradingCycle>
+        <NormalBookTradingCycle>24hs-CAC</NormalBookTradingCycle>
+        <NormalOrderBook>1</NormalOrderBook>
+        <OffBookOrderBook>0</OffBookOrderBook>
+        <OffBookTradingCycle>Standard Off Book</OffBookTradingCycle>
+        <AONAuctionDuration>0</AONAuctionDuration>
+        <ActiveLoadID>1</ActiveLoadID>
+        <AdjustmentFactor>1.0000</AdjustmentFactor>
+        <AlphaID>AA37</AlphaID>
+        <BLOCK>0</BLOCK>
+        <BlueMonth>0</BlueMonth>
+        <CBMinimumValue />
+        <CFICode />
+        <CalendarID>Default</CalendarID>
+        <TypeOfCategory>03-TITULOS PUBLICOS</TypeOfCategory>
+        <DeletionDate>2018/07/02</DeletionDate>
+        <DisplayFormat>0</DisplayFormat>
+        <DisplayFormatFieldsTable>Test</DisplayFormatFieldsTable>
+        <DividendYield>0.00000000</DividendYield>
+        <ExpiryDate>2018/06/29</ExpiryDate>
+        <FirstTradingDate />
+        <FlagforDelete>0</FlagforDelete>
+        <IndexPrice>0.0000000</IndexPrice>
+        <IndexQty>0.0000000</IndexQty>
+        <InstrumentStatus>0</InstrumentStatus>
+        <InternalLoadID>0</InternalLoadID>
+        <IssuedQty>99999999999.0000000</IssuedQty>
+        <LastTradingDay>2018/06/27</LastTradingDay>
+        <Leader>0</Leader>
+        <LoadID>1</LoadID>
+        <LotValue>1000.0000000</LotValue>
+        <MDSMulticastChannelID>0</MDSMulticastChannelID>
+        <MOBType>0</MOBType>
+        <MarcaStandard>0</MarcaStandard>
+        <MarketDataChannelID>0</MarketDataChannelID>
+        <MarketID>CT</MarketID>
+        <NumberofDecimalPlaces>3</NumberofDecimalPlaces>
+        <NumericID>5482</NumericID>
+        <OperationalForm>T</OperationalForm>
+        <OrderDeletionDate />
+        <PASS>0</PASS>
+        <PSInternalLoadID>1</PSInternalLoadID>
+        <PostTradeParameter>PTP_ACC-OPC-CAU-PR</PostTradeParameter>
+        <ReferencePrice />
+        <ReferencePriceTable>T_Precio_Referencia</ReferencePriceTable>
+        <SIN>ARARGE320416</SIN>
+        <SecMDSMulticastChannelID>6</SecMDSMulticastChannelID>
+        <SecondaryLoadID>2</SecondaryLoadID>
+        <SecurityDescription>(5482)B. NAC ARG U$S 2037-29/0</SecurityDescription>
+        <SecurityType>2</SecurityType>
+        <Segment>PLAZO</Segment>
+        <SettlementDate>2018/06/29</SettlementDate>
+        <SettlementMethod>0</SettlementMethod>
+        <Symbol>AA37-2906-T-CT-ARS</Symbol>
+        <Term>2906</Term>
+        <TradingCurrency>ARS</TradingCurrency>
+        <TradingParameter>BONO_LM-1_CM-1_CAC</TradingParameter>
+        <TypeOfDebt />
+        <TypeOfIncome>01-FIJA</TypeOfIncome>
+        <TypeOfIssue />
+        <TypeOfObligation />
+        <Underlying>AA37-0003-C-CT-ARS</Underlying>
+        <Volatility>0.00000000</Volatility>
+        <Action>0</Action>
+    </INSTANCE>
+    <INSTANCE>
+        <Issuer>0103-PAMPA ENERGIA S.A.</Issuer>
+        <NormalBookEarlyTradingCycle>24hs-VWAP</NormalBookEarlyTradingCycle>
+        <NormalBookFirstTradingCycle>24hs-VWAP</NormalBookFirstTradingCycle>
+        <NormalBookLastTradingCycle>24hs-VWAP</NormalBookLastTradingCycle>
+        <NormalBookTradingCycle>24hs-VWAP</NormalBookTradingCycle>
+        <NormalOrderBook>1</NormalOrderBook>
+        <OffBookOrderBook>0</OffBookOrderBook>
+        <OffBookTradingCycle>Standard Off Book</OffBookTradingCycle>
+        <AONAuctionDuration>0</AONAuctionDuration>
+        <ActiveLoadID>1</ActiveLoadID>
+        <AdjustmentFactor>1.0000</AdjustmentFactor>
+        <AlphaID>PAMP</AlphaID>
+        <BLOCK>0</BLOCK>
+        <BlueMonth>0</BlueMonth>
+        <CBMinimumValue />
+        <CFICode />
+        <CalendarID>Default</CalendarID>
+        <TypeOfCategory>01-ACCIONES PRIVADAS</TypeOfCategory>
+        <DeletionDate>2018/05/02</DeletionDate>
+        <DisplayFormat>0</DisplayFormat>
+        <DisplayFormatFieldsTable>Test</DisplayFormatFieldsTable>
+        <DividendYield>0.00000000</DividendYield>
+        <ExpiryDate>2018/04/27</ExpiryDate>
+        <FirstTradingDate />
+        <FlagforDelete>0</FlagforDelete>
+        <IndexPrice>53.2000000</IndexPrice>
+        <IndexQty>0.0000000</IndexQty>
+        <InstrumentStatus>0</InstrumentStatus>
+        <InternalLoadID>0</InternalLoadID>
+        <IssuedQty>99999999999.0000000</IssuedQty>
+        <LastTradingDay>2018/04/25</LastTradingDay>
+        <Leader>0</Leader>
+        <LoadID>1</LoadID>
+        <LotValue>1000.0000000</LotValue>
+        <MDSMulticastChannelID>0</MDSMulticastChannelID>
+        <MOBType>0</MOBType>
+        <MarcaStandard>0</MarcaStandard>
+        <MarketDataChannelID>0</MarketDataChannelID>
+        <MarketID>CT</MarketID>
+        <NumberofDecimalPlaces>3</NumberofDecimalPlaces>
+        <NumericID>457</NumericID>
+        <OperationalForm>T</OperationalForm>
+        <OrderDeletionDate />
+        <PASS>0</PASS>
+        <PSInternalLoadID>1</PSInternalLoadID>
+        <PostTradeParameter>PTP_ACC-OPC-CAU-PR</PostTradeParameter>
+        <ReferencePrice />
+        <ReferencePriceTable>T_Precio_Referencia</ReferencePriceTable>
+        <SIN>ARP432631215</SIN>
+        <SecMDSMulticastChannelID>6</SecMDSMulticastChannelID>
+        <SecondaryLoadID>2</SecondaryLoadID>
+        <SecurityDescription>(457)PAMPA ENERGIA   -27/04/20</SecurityDescription>
+        <SecurityType>2</SecurityType>
+        <Segment>PLAZO</Segment>
+        <SettlementDate>2018/04/27</SettlementDate>
+        <SettlementMethod>0</SettlementMethod>
+        <Symbol>PAMP-2704-T-CT-ARS</Symbol>
+        <Term>2704</Term>
+        <TradingCurrency>ARS</TradingCurrency>
+        <TradingParameter>ACC_LM-1_CM-1_VWAP</TradingParameter>
+        <TypeOfDebt />
+        <TypeOfIncome>02-VARIABLE</TypeOfIncome>
+        <TypeOfIssue />
+        <TypeOfObligation />
+        <Underlying>PAMP-0003-C-CT-ARS</Underlying>
+        <Volatility>0.00000000</Volatility>
+        <Action>0</Action>
+    </INSTANCE>
+    <INSTANCE>
+        <Issuer>0103-PAMPA ENERGIA S.A.</Issuer>
+        <NormalBookEarlyTradingCycle>24hs-VWAP</NormalBookEarlyTradingCycle>
+        <NormalBookFirstTradingCycle>24hs-VWAP</NormalBookFirstTradingCycle>
+        <NormalBookLastTradingCycle>24hs-VWAP</NormalBookLastTradingCycle>
+        <NormalBookTradingCycle>24hs-VWAP</NormalBookTradingCycle>
+        <NormalOrderBook>1</NormalOrderBook>
+        <OffBookOrderBook>0</OffBookOrderBook>
+        <OffBookTradingCycle>Standard Off Book</OffBookTradingCycle>
+        <AONAuctionDuration>0</AONAuctionDuration>
+        <ActiveLoadID>1</ActiveLoadID>
+        <AdjustmentFactor>1.0000</AdjustmentFactor>
+        <AlphaID>PAMP</AlphaID>
+        <BLOCK>0</BLOCK>
+        <BlueMonth>0</BlueMonth>
+        <CBMinimumValue />
+        <CFICode />
+        <CalendarID>Default</CalendarID>
+        <TypeOfCategory>01-ACCIONES PRIVADAS</TypeOfCategory>
+        <DeletionDate>2018/07/02</DeletionDate>
+        <DisplayFormat>0</DisplayFormat>
+        <DisplayFormatFieldsTable>Test</DisplayFormatFieldsTable>
+        <DividendYield>0.00000000</DividendYield>
+        <ExpiryDate>2018/06/29</ExpiryDate>
+        <FirstTradingDate />
+        <FlagforDelete>0</FlagforDelete>
+        <IndexPrice>0.0000000</IndexPrice>
+        <IndexQty>0.0000000</IndexQty>
+        <InstrumentStatus>0</InstrumentStatus>
+        <InternalLoadID>0</InternalLoadID>
+        <IssuedQty>99999999999.0000000</IssuedQty>
+        <LastTradingDay>2018/06/27</LastTradingDay>
+        <Leader>0</Leader>
+        <LoadID>1</LoadID>
+        <LotValue>1000.0000000</LotValue>
+        <MDSMulticastChannelID>0</MDSMulticastChannelID>
+        <MOBType>0</MOBType>
+        <MarcaStandard>0</MarcaStandard>
+        <MarketDataChannelID>0</MarketDataChannelID>
+        <MarketID>CT</MarketID>
+        <NumberofDecimalPlaces>3</NumberofDecimalPlaces>
+        <NumericID>457</NumericID>
+        <OperationalForm>T</OperationalForm>
+        <OrderDeletionDate />
+        <PASS>0</PASS>
+        <PSInternalLoadID>1</PSInternalLoadID>
+        <PostTradeParameter>PTP_ACC-OPC-CAU-PR</PostTradeParameter>
+        <ReferencePrice />
+        <ReferencePriceTable>T_Precio_Referencia</ReferencePriceTable>
+        <SIN>ARP432631215</SIN>
+        <SecMDSMulticastChannelID>6</SecMDSMulticastChannelID>
+        <SecondaryLoadID>2</SecondaryLoadID>
+        <SecurityDescription>(457)PAMPA ENERGIA   -29/06/20</SecurityDescription>
+        <SecurityType>2</SecurityType>
+        <Segment>PLAZO</Segment>
+        <SettlementDate>2018/06/29</SettlementDate>
+        <SettlementMethod>0</SettlementMethod>
+        <Symbol>PAMP-2906-T-CT-ARS</Symbol>
+        <Term>2906</Term>
+        <TradingCurrency>ARS</TradingCurrency>
+        <TradingParameter>ACC_LM-1_CM-1_VWAP</TradingParameter>
+        <TypeOfDebt />
+        <TypeOfIncome>02-VARIABLE</TypeOfIncome>
+        <TypeOfIssue />
+        <TypeOfObligation />
+        <Underlying>PAMP-0003-C-CT-ARS</Underlying>
+        <Volatility>0.00000000</Volatility>
+        <Action>0</Action>
+    </INSTANCE>
+    <INSTANCE>
+        <Issuer>0500-REPUBLICA ARGENTINA</Issuer>
+        <NormalBookEarlyTradingCycle>24hs-CAC</NormalBookEarlyTradingCycle>
+        <NormalBookFirstTradingCycle>24hs-CAC</NormalBookFirstTradingCycle>
+        <NormalBookLastTradingCycle>24hs-CAC</NormalBookLastTradingCycle>
+        <NormalBookTradingCycle>24hs-CAC</NormalBookTradingCycle>
+        <NormalOrderBook>1</NormalOrderBook>
+        <OffBookOrderBook>0</OffBookOrderBook>
+        <OffBookTradingCycle>Standard Off Book</OffBookTradingCycle>
+        <AONAuctionDuration>0</AONAuctionDuration>
+        <ActiveLoadID>1</ActiveLoadID>
+        <AdjustmentFactor>1.0000</AdjustmentFactor>
+        <AlphaID>AA37</AlphaID>
+        <BLOCK>0</BLOCK>
+        <BlueMonth>0</BlueMonth>
+        <CBMinimumValue />
+        <CFICode />
+        <CalendarID>Default</CalendarID>
+        <TypeOfCategory>03-TITULOS PUBLICOS</TypeOfCategory>
+        <DeletionDate>2018/05/02</DeletionDate>
+        <DisplayFormat>0</DisplayFormat>
+        <DisplayFormatFieldsTable>Test</DisplayFormatFieldsTable>
+        <DividendYield>0.00000000</DividendYield>
+        <ExpiryDate>2018/04/27</ExpiryDate>
+        <FirstTradingDate />
+        <FlagforDelete>0</FlagforDelete>
+        <IndexPrice>2200.0000000</IndexPrice>
+        <IndexQty>0.0000000</IndexQty>
+        <InstrumentStatus>0</InstrumentStatus>
+        <InternalLoadID>0</InternalLoadID>
+        <IssuedQty>99999999999.0000000</IssuedQty>
+        <LastTradingDay>2018/04/25</LastTradingDay>
+        <Leader>0</Leader>
+        <LoadID>1</LoadID>
+        <LotValue>1000.0000000</LotValue>
+        <MDSMulticastChannelID>0</MDSMulticastChannelID>
+        <MOBType>0</MOBType>
+        <MarcaStandard>0</MarcaStandard>
+        <MarketDataChannelID>0</MarketDataChannelID>
+        <MarketID>CT</MarketID>
+        <NumberofDecimalPlaces>3</NumberofDecimalPlaces>
+        <NumericID>5482</NumericID>
+        <OperationalForm>T</OperationalForm>
+        <OrderDeletionDate />
+        <PASS>0</PASS>
+        <PSInternalLoadID>1</PSInternalLoadID>
+        <PostTradeParameter>PTP_ACC-OPC-CAU-PR</PostTradeParameter>
+        <ReferencePrice />
+        <ReferencePriceTable>T_Precio_Referencia</ReferencePriceTable>
+        <SIN>ARARGE320416</SIN>
+        <SecMDSMulticastChannelID>6</SecMDSMulticastChannelID>
+        <SecondaryLoadID>2</SecondaryLoadID>
+        <SecurityDescription>(5482)B. NAC ARG U$S 2037-27/0</SecurityDescription>
+        <SecurityType>2</SecurityType>
+        <Segment>PLAZO</Segment>
+        <SettlementDate>2018/04/27</SettlementDate>
+        <SettlementMethod>0</SettlementMethod>
+        <Symbol>AA37-2704-T-CT-ARS</Symbol>
+        <Term>2704</Term>
+        <TradingCurrency>ARS</TradingCurrency>
+        <TradingParameter>BONO_LM-1_CM-1_CAC</TradingParameter>
+        <TypeOfDebt />
+        <TypeOfIncome>01-FIJA</TypeOfIncome>
+        <TypeOfIssue />
+        <TypeOfObligation />
+        <Underlying>AA37-0003-C-CT-ARS</Underlying>
+        <Volatility>0.00000000</Volatility>
+        <Action>0</Action>
+    </INSTANCE>
+    <INSTANCE>
+        <Issuer>0500-REPUBLICA ARGENTINA</Issuer>
+        <NormalBookEarlyTradingCycle>24hs-CAC</NormalBookEarlyTradingCycle>
+        <NormalBookFirstTradingCycle>24hs-CAC</NormalBookFirstTradingCycle>
+        <NormalBookLastTradingCycle>24hs-CAC</NormalBookLastTradingCycle>
+        <NormalBookTradingCycle>24hs-CAC</NormalBookTradingCycle>
+        <NormalOrderBook>1</NormalOrderBook>
+        <OffBookOrderBook>0</OffBookOrderBook>
+        <OffBookTradingCycle>Standard Off Book</OffBookTradingCycle>
+        <AONAuctionDuration>0</AONAuctionDuration>
+        <ActiveLoadID>1</ActiveLoadID>
+        <AdjustmentFactor>1.0000</AdjustmentFactor>
+        <AlphaID>AY24</AlphaID>
+        <BLOCK>0</BLOCK>
+        <BlueMonth>0</BlueMonth>
+        <CBMinimumValue />
+        <CFICode />
+        <CalendarID>Default</CalendarID>
+        <TypeOfCategory>03-TITULOS PUBLICOS</TypeOfCategory>
+        <DeletionDate>2018/05/02</DeletionDate>
+        <DisplayFormat>0</DisplayFormat>
+        <DisplayFormatFieldsTable>Test</DisplayFormatFieldsTable>
+        <DividendYield>0.00000000</DividendYield>
+        <ExpiryDate>2018/04/27</ExpiryDate>
+        <FirstTradingDate />
+        <FlagforDelete>0</FlagforDelete>
+        <IndexPrice>2390.0000000</IndexPrice>
+        <IndexQty>0.0000000</IndexQty>
+        <InstrumentStatus>0</InstrumentStatus>
+        <InternalLoadID>0</InternalLoadID>
+        <IssuedQty>99999999999.0000000</IssuedQty>
+        <LastTradingDay>2018/04/25</LastTradingDay>
+        <Leader>0</Leader>
+        <LoadID>1</LoadID>
+        <LotValue>1000.0000000</LotValue>
+        <MDSMulticastChannelID>0</MDSMulticastChannelID>
+        <MOBType>0</MOBType>
+        <MarcaStandard>0</MarcaStandard>
+        <MarketDataChannelID>0</MarketDataChannelID>
+        <MarketID>CT</MarketID>
+        <NumberofDecimalPlaces>3</NumberofDecimalPlaces>
+        <NumericID>5458</NumericID>
+        <OperationalForm>T</OperationalForm>
+        <OrderDeletionDate />
+        <PASS>0</PASS>
+        <PSInternalLoadID>1</PSInternalLoadID>
+        <PostTradeParameter>PTP_ACC-OPC-CAU-PR</PostTradeParameter>
+        <ReferencePrice />
+        <ReferencePriceTable>T_Precio_Referencia</ReferencePriceTable>
+        <SIN>ARARGE03H413</SIN>
+        <SecMDSMulticastChannelID>6</SecMDSMulticastChannelID>
+        <SecondaryLoadID>2</SecondaryLoadID>
+        <SecurityDescription>(5458)BONO NAC.ARG 2024 U$S 8.</SecurityDescription>
+        <SecurityType>2</SecurityType>
+        <Segment>PLAZO</Segment>
+        <SettlementDate>2018/04/27</SettlementDate>
+        <SettlementMethod>0</SettlementMethod>
+        <Symbol>AY24-2704-T-CT-ARS</Symbol>
+        <Term>2704</Term>
+        <TradingCurrency>ARS</TradingCurrency>
+        <TradingParameter>BONO_LM-1_CM-1_CAC</TradingParameter>
+        <TypeOfDebt />
+        <TypeOfIncome>01-FIJA</TypeOfIncome>
+        <TypeOfIssue />
+        <TypeOfObligation />
+        <Underlying>AY24-0003-C-CT-ARS</Underlying>
+        <Volatility>0.00000000</Volatility>
+        <Action>0</Action>
+    </INSTANCE>
+    <INSTANCE>
+        <Issuer>0500-REPUBLICA ARGENTINA</Issuer>
+        <NormalBookEarlyTradingCycle>24hs-CAC</NormalBookEarlyTradingCycle>
+        <NormalBookFirstTradingCycle>24hs-CAC</NormalBookFirstTradingCycle>
+        <NormalBookLastTradingCycle>24hs-CAC</NormalBookLastTradingCycle>
+        <NormalBookTradingCycle>24hs-CAC</NormalBookTradingCycle>
+        <NormalOrderBook>1</NormalOrderBook>
+        <OffBookOrderBook>0</OffBookOrderBook>
+        <OffBookTradingCycle>Standard Off Book</OffBookTradingCycle>
+        <AONAuctionDuration>0</AONAuctionDuration>
+        <ActiveLoadID>1</ActiveLoadID>
+        <AdjustmentFactor>1.0000</AdjustmentFactor>
+        <AlphaID>AY24</AlphaID>
+        <BLOCK>0</BLOCK>
+        <BlueMonth>0</BlueMonth>
+        <CBMinimumValue />
+        <CFICode />
+        <CalendarID>Default</CalendarID>
+        <TypeOfCategory>03-TITULOS PUBLICOS</TypeOfCategory>
+        <DeletionDate>2018/07/02</DeletionDate>
+        <DisplayFormat>0</DisplayFormat>
+        <DisplayFormatFieldsTable>Test</DisplayFormatFieldsTable>
+        <DividendYield>0.00000000</DividendYield>
+        <ExpiryDate>2018/06/29</ExpiryDate>
+        <FirstTradingDate />
+        <FlagforDelete>0</FlagforDelete>
+        <IndexPrice>2535.0000000</IndexPrice>
+        <IndexQty>0.0000000</IndexQty>
+        <InstrumentStatus>0</InstrumentStatus>
+        <InternalLoadID>0</InternalLoadID>
+        <IssuedQty>99999999999.0000000</IssuedQty>
+        <LastTradingDay>2018/06/27</LastTradingDay>
+        <Leader>0</Leader>
+        <LoadID>1</LoadID>
+        <LotValue>1000.0000000</LotValue>
+        <MDSMulticastChannelID>0</MDSMulticastChannelID>
+        <MOBType>0</MOBType>
+        <MarcaStandard>0</MarcaStandard>
+        <MarketDataChannelID>0</MarketDataChannelID>
+        <MarketID>CT</MarketID>
+        <NumberofDecimalPlaces>3</NumberofDecimalPlaces>
+        <NumericID>5458</NumericID>
+        <OperationalForm>T</OperationalForm>
+        <OrderDeletionDate />
+        <PASS>0</PASS>
+        <PSInternalLoadID>1</PSInternalLoadID>
+        <PostTradeParameter>PTP_ACC-OPC-CAU-PR</PostTradeParameter>
+        <ReferencePrice />
+        <ReferencePriceTable>T_Precio_Referencia</ReferencePriceTable>
+        <SIN>ARARGE03H413</SIN>
+        <SecMDSMulticastChannelID>6</SecMDSMulticastChannelID>
+        <SecondaryLoadID>2</SecondaryLoadID>
+        <SecurityDescription>(5458)BONO NAC.ARG 2024 U$S 8.</SecurityDescription>
+        <SecurityType>2</SecurityType>
+        <Segment>PLAZO</Segment>
+        <SettlementDate>2018/06/29</SettlementDate>
+        <SettlementMethod>0</SettlementMethod>
+        <Symbol>AY24-2906-T-CT-ARS</Symbol>
+        <Term>2906</Term>
+        <TradingCurrency>ARS</TradingCurrency>
+        <TradingParameter>BONO_LM-1_CM-1_CAC</TradingParameter>
+        <TypeOfDebt />
+        <TypeOfIncome>01-FIJA</TypeOfIncome>
+        <TypeOfIssue />
+        <TypeOfObligation />
+        <Underlying>AY24-0003-C-CT-ARS</Underlying>
+        <Volatility>0.00000000</Volatility>
+        <Action>0</Action>
+    </INSTANCE>
+ </FILE>
