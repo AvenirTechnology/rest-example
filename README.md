@@ -1,3 +1,3 @@
 # Rest-Client
 
-Testing rest client for Avenir|Settle API
+Basic rest client examples for interacting with Avenir|Settle REST API
