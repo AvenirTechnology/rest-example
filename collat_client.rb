@@ -55,3 +55,20 @@ ref = json['reference']
 resp = RestClient.get base + '/v1/collateral/' + ref
 puts "#{resp}"
 
+
+# collateral reconciliation
+
+fbond   = File.new('./files/Instrument_Bond.xml', 'rb')
+
+reconcile = RestClient::Request.new(
+    :method     => :post,
+    :url        => base + '/v1/collateral/bulk',
+    :payload    => {
+        :category       => :security,
+        :multipart      => true,
+        :file           => fbond,
+    }
+)
+
+response = reconcile.execute
+puts "#{response}"
